@@ -19,3 +19,10 @@ void byteorder()
 		printf( "unknown...\n" );
 	}
 }
+
+int main()
+{
+	byteorder();
+
+	return 0;
+}
